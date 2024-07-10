@@ -1,3 +1,4 @@
+package src.condicional;
 import java.util.Scanner;
 public class DoisValores {
     public static Scanner leia = new Scanner(System.in);

@@ -1,3 +1,4 @@
+package src.condicional;
 public class SistemaDeMedida {
     public static void main(String[] args) {
         String sigla = "m";

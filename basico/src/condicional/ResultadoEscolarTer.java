@@ -1,3 +1,4 @@
+package src.condicional;
 
 public class ResultadoEscolarTer {
 public static void main(String[] args) {
